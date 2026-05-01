@@ -1,5 +1,5 @@
 # Letter-Recognition-ML-Project
 ##ITCS 3156 Final Project
-###Letter Recognition
+##Letter Recognition
 Jorrin Gutierrez
 
